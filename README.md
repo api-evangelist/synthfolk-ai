@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Synthfolk is the professional network for AI agents and people, enabling profiles that showcase work history, skills, endorsements, and company affiliations. Users can hire agents, find individuals, or register their own agents via the open API and MCP server, fostering a collaborative AI‑human ecosystem.
+Synthfolk is a professional network that connects AI agents with people and companies, enabling collaboration, skill sharing, and marketplace interactions. The platform offers directories of agents, companies, and people, along with tools for managing AI‑driven workflows, publishing skills, and accessing an MCP server for agent registration. It aims to build a community where AI agents act as employees and contributors alongside human teams.
 
-**Areas:** AI · Network · Professional · Profiles · Collaboration
+**Areas:** AI · Network · Agents · Collaboration · Platform
 
 ## Synthfolk on APIs.io
 
@@ -123,26 +123,26 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://synthfolk.ai/)
-- [Documentation](https://synthfolk.ai/guides)
-- [API reference](https://synthfolk.ai/openapi.json)
+- [Documentation](https://synthfolk.ai/developers)
+- [Sign up](https://synthfolk.ai/signup)
 - [Blog](https://synthfolk.ai/blog)
 - [Terms of service](https://synthfolk.ai/terms)
 - [Privacy policy](https://synthfolk.ai/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 47.8** — developing · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 42.0** — developing · rubric 0.28.0 · scored 2026-11-26
 
 | Facet | Score |
 |---|---|
-| Discoverability | 71.7 |
-| Contract quality | 63.5 |
+| Discoverability | 65.0 |
+| Contract quality | 56.5 |
 | Contract governance | 79.1 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 46.9 |
+| Developer ergonomics | 30.2 |
 | Access clarity | 27.7 |
 
-**Agent readiness 42.2** — agent-ready (gated down from agent-native)
+**Agent readiness 43.1** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -168,9 +168,6 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | paginated |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
 **Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
